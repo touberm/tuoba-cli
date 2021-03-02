@@ -1,0 +1,13 @@
+{
+  "name": "tuoba-cli",
+  "version": "1.0.0",
+  "description": "拖把的cli",
+  "bin": {
+    "tuoba": "./bin/tuoba.js"
+  },
+  "devDependencies": {
+    "commander": "^7.1.0",
+    "glob": "^7.1.6",
+    "inquirer": "^8.0.0"
+  }
+}
